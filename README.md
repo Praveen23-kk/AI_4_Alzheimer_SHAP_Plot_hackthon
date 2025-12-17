@@ -19,11 +19,7 @@ Alzheimer's disease affects millions, yet its progression is often subtle in ear
 * **Explainability**: SHAP (GradientExplainer)
 * **Visualization**: Matplotlib, Seaborn
 
-## 📊 Results & Visualizations
 
-| **Confusion Matrix** | **ROC Curves** |
-|:---:|:---:|
-| <img src="images/confusion_matrix.png" width="300"> | <img src="images/roc_curve.png" width="300"> |
 
 ### 🧠 The "Brain Map" (Explainability)
 Our model autonomously learned that **enlarged ventricles** (the dark center gaps) are key indicators of Moderate Dementia.
@@ -53,4 +49,4 @@ The model utilizes a de-identified MRI dataset (Parquet format) containing pre-p
 This project was built for **Hack4Health**, focusing on the **Interpretability** track. We demonstrate that AI can be a *transparent* clinical support tool, not just a prediction engine.
 
 ---
-*Built with ❤️ by [Your Team Name]*
+*Built with ❤️ by K Praveen Kumar*
