@@ -24,7 +24,7 @@ Alzheimer's disease affects millions, yet its progression is often subtle in ear
 ### 🧠 The "Brain Map" (Explainability)
 Our model autonomously learned that **enlarged ventricles** (the dark center gaps) are key indicators of Moderate Dementia.
 
-<img src="images/winning_brain_patterns.png" width="800">
+<img src="images/download.png" width="800">
 
 ## 📥 Installation & Usage
 
